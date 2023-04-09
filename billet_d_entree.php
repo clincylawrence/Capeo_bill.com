@@ -5,7 +5,7 @@
 	
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Billet d'entree</title>
-</head>
+     </head>
 <body > 
 <center>
 	<div class="diaporama">
